@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @ronaldvaneede
+- 🇳🇱 I am from the Netherlands
+- 📫 How to reach me:
+  - Link me on [LinkedIn here](https://www.linkedin.com/in/ronaldvaneede/)
+  - Tweet me on [Twitter here](https://www.twitter.com/ronaldvaneede/)
+
 <!--
 **rveede/rveede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
