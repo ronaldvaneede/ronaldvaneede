@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m @ronaldvaneede
+- 👋 Hi, I’m @rveede
 - 🇳🇱 I am from the Netherlands
 - 📫 How to reach me:
   - Link me on [LinkedIn here](https://www.linkedin.com/in/ronaldvaneede/)
